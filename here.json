@@ -1,0 +1,146 @@
+{
+  "6" : {
+    "FullName" : "Embodiment of Scarlet Devil",
+    "Abbreviation": "EoSD",
+      "Completion": {
+        "Normal 1CC" : {
+        "Characters" : [
+          "MarisaA",
+          "MarisaB"
+        ]
+      },
+      "Extra" : {
+        "Characters" : [
+          "MarisaA"
+        ]
+      }  
+    }
+  },
+  "7" : {
+    "FullName" : "Perfect Cherry Blossom",
+    "Abbreviation":"PCB",
+    "Completion": {
+      "Normal 1CC" : {
+        "Characters" : [
+          "ReimuB",
+          "MarisaA",
+          "SakuyaA"
+        ]
+      },
+      "Extra" : {
+        "Characters" : [
+          "ReimuB",
+          "SakuyaA"
+        ]
+      },
+      "Phantasm" : {
+        "Characters" : [
+          "SakuyaA"
+        ]
+      }
+    }
+  },
+  "8" : {
+    "FullName" : "Imperishable Night",
+    "Abbreviation" : "IN",
+    "Completion" : {
+      "Normal 1CC" : {
+        "Characters" : [
+          "Reimu/Yukari",
+          "Marisa/Alice", 
+          "Youmu/Yuyuko"
+        ]
+      },
+      "Extra" : {
+        "Characters" : [
+          "Reimu/Yukari"
+        ]
+      },
+      "Last Word Captures" : {
+        "206" : {
+          "FullName" : "Unseasonal Butterfly Storm"
+        }
+      } 
+    }
+  },
+  "10" : {
+    "FullName" : "Mountain of Faith",
+    "Abbreviation" : "MoF",
+    "Completion" : {
+      "Normal 1CC" : {
+        "Characters" : [
+          "ReimuB", 
+          "MarisaB"
+        ]
+      },
+      "Hard 1CC" : {
+        "Characters" : [
+          "MarisaB"
+        ]
+      },
+      "Extra" : {
+        "Characters" : [
+          "ReimuB"
+        ]
+      }
+    }
+  },
+  "11" : {
+    "FullName" : "Subterranean Animism",
+    "Abbreviation" : "SA",
+    "Completion" : {
+      "Normal 1CC" : {
+        "Characters" : [
+          "ReimuA"
+        ]
+      },
+      "Extra" : {
+        "Characters" : [
+          "ReimuA"
+        ]
+      }
+    }
+  },
+  "12" : {
+    "FullName" : "Unidentified Fantastic Object",
+    "Abbreviation" : "UFO",
+    "Completion" : {
+      "Normal 1CC" : {
+        "Characters" : [
+          "MarisaA",
+          "SanaeA"
+        ]
+      },
+      "Extra" : {
+        "Characters" : [
+          "MarisaA"
+        ]
+      }
+    },
+    "13" : {
+      "FullName" : "Ten Desires",
+      "Abbreviation" : "10D",
+      "Completion" : {
+        "Normal 1CC" : {
+          "Characters" : [
+            "Reimu"
+          ]
+        },
+        "Extra" : {
+          "Characters" : [
+            "Reimu"
+          ]
+        }
+    }
+  },
+  "15" : {
+    "FullName" : "Legacy of Lunatic Kingdom",
+    "Abbreviation" : "LoLK",
+    "Completion" : {
+      "PointDevice mode, no bomb" : {
+        "Characters" : [ 
+          "Reimu"
+        ]
+    }
+  }
+}
