@@ -1,7 +1,7 @@
 # MyTouhouCompletion
 All my touhou project completion, here on github
 
-## Touhou 6 EOSD
+## Touhou 6 EoSD
 ### Normal
   1CC Marisa A, Marisa B
 ### Extra
@@ -23,7 +23,7 @@ All my touhou project completion, here on github
 ### Last word captures
   206 "Unseasonal Butterfly Storm"
 
-## Touhou 10 MOF
+## Touhou 10 MoF
 ### Normal 
   1CC Reimu B, Marisa B
 ### Hard
@@ -48,4 +48,7 @@ All my touhou project completion, here on github
   1CC Reimu
 ### Extra 
   Reimu
-  
+
+## Touhou 15 LoLK
+### PointDevice mode, no bomb 
+  Reisen
