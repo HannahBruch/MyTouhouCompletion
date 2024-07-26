@@ -133,6 +133,18 @@
         }
     }
   },
+    "14" : {
+      "FullName" : "Double Dealing Character",
+      "Abbreviation" : "DDC",
+      "Completion" : {
+        "Normal 1CC" : {
+          "Characters" : [
+            "ReimuB"
+          ]
+        }
+    }
+  },
+    
   "15" : {
     "FullName" : "Legacy of Lunatic Kingdom",
     "Abbreviation" : "LoLK",
