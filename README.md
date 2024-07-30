@@ -59,3 +59,7 @@ All my touhou project completion, here on github
 ## Touhou 16 HSiFS
 ### Normal
   1CC Reimu fall
+
+## Touhou 17 WBaWC
+### Normal
+  1CC Reimu wolf
