@@ -55,3 +55,7 @@ All my touhou project completion, here on github
 ## Touhou 15 LoLK
 ### PointDevice mode, no bomb 
   Reisen
+
+## Touhou 16 HSiFS
+### Normal
+  1CC Reimu fall
