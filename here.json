@@ -156,3 +156,15 @@
     }
   }
 }
+    "16" : {
+      "FullName" : Hidden Star in Four Seasons",
+      "Abbreviation" : "HSiFS",
+      "Completion" : {
+        "Normal 1CC" : {
+          "Characters" : [
+            "Reimu_Fall"
+          ]
+        }
+    }
+  },
+}
