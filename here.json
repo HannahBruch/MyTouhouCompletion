@@ -167,4 +167,15 @@
         }
     }
   },
+    "17" : {
+      "FullName" : Wily Beast and Weakest Creature",
+      "Abbreviation" : "WBaWC",
+      "Completion" : {
+        "Normal 1CC" : {
+          "Characters" : [
+            "Reimu_Fall"
+          ]
+        }
+    }
+  },
 }
