@@ -1,6 +1,8 @@
 # MyTouhouCompletion
 All my touhou project completion, here on github
-
+## Touhou 4 LLS
+### Normal
+  1C Marisa B
 ## Touhou 6 EoSD
 ### Normal
   1CC Marisa A, Marisa B
