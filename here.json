@@ -157,7 +157,7 @@
   }
 }
     "16" : {
-      "FullName" : Hidden Star in Four Seasons",
+      "FullName" : "Hidden Star in Four Seasons",
       "Abbreviation" : "HSiFS",
       "Completion" : {
         "Normal 1CC" : {
@@ -168,7 +168,7 @@
     }
   },
     "17" : {
-      "FullName" : Wily Beast and Weakest Creature",
+      "FullName" : "Wily Beast and Weakest Creature",
       "Abbreviation" : "WBaWC",
       "Completion" : {
         "Normal 1CC" : {
@@ -178,4 +178,15 @@
         }
     }
   },
+      "18" : {
+      "FullName" : "Unconnected Marketeers",
+      "Abbreviation" : "UM",
+      "Completion" : {
+        "Normal 1CC" : {
+          "Characters" : [
+            "Reimu"
+          ]
+        }
+    }
+  }
 }
