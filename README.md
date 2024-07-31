@@ -63,3 +63,7 @@ All my touhou project completion, here on github
 ## Touhou 17 WBaWC
 ### Normal
   1CC Reimu wolf
+
+## Touhou 18 UM
+### Normal
+  1CC Reimu
