@@ -74,6 +74,17 @@
       } 
     }
   },
+  "9" :{
+    "FullName" : "Phantasmagoria of Flower View",
+    "Abbreviation" : "PoFV",
+    "Completion" : {
+      "Normal 1CC" : {
+        "Characters" : [
+          "Marisa"
+        ]
+      }
+    }
+  },
   "10" : {
     "FullName" : "Mountain of Faith",
     "Abbreviation" : "MoF",
