@@ -25,6 +25,10 @@ All my touhou project completion, here on github
 ### Last word captures
   206 "Unseasonal Butterfly Storm"
 
+## Touhou 9 POFV
+### Normal 
+  1CC Marisa
+
 ## Touhou 10 MoF
 ### Normal 
   1CC Reimu B, Marisa B
