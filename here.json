@@ -138,7 +138,8 @@
           "MarisaA"
         ]
       }
-    },
+    }
+  },
     "13" : {
       "FullName" : "Ten Desires",
       "Abbreviation" : "10D",
@@ -171,13 +172,18 @@
     "FullName" : "Legacy of Lunatic Kingdom",
     "Abbreviation" : "LoLK",
     "Completion" : {
+      "Normal 1CC" : {
+        "Characters": [
+          "Reisen"
+        ]
+      },
       "PointDevice mode, no bomb" : {
         "Characters" : [ 
           "Reisen"
         ]
     }
   }
-}
+},
     "16" : {
       "FullName" : "Hidden Star in Four Seasons",
       "Abbreviation" : "HSiFS",
