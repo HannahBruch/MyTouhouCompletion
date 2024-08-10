@@ -59,6 +59,8 @@ All my touhou project completion, here on github
   1CC ReimuB
   
 ## Touhou 15 LoLK
+### Normal
+  1CC Reisen
 ### PointDevice mode, no bomb 
   Reisen
 
