@@ -1,5 +1,5 @@
 # MyTouhouCompletion
-All my touhou project completion, here on github
+I have now 1CC'd all Windows games on normal difficulty or harder. I have also beaten all extras 6-13. Currently working on beating all extras 14-19.
 ## Touhou 4 LLS
 ### Normal
   1CC Marisa B
@@ -74,4 +74,8 @@ All my touhou project completion, here on github
 
 ## Touhou 18 UM
 ### Normal
+  1CC Reimu
+  
+## Touhou 19 UFDoALG
+### Normal 
   1CC Reimu
