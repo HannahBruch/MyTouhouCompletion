@@ -216,5 +216,16 @@
           ]
         }
     }
+  },
+  "19" : {
+    "FullName" : "Unfinished Dream of All Living Ghost",
+    "Abbreviation" : "UDoALG",
+    "Completion" : {
+      "Normal 1CC" : {
+        "Characters" : [
+          "Reimu"
+        ]
+      }
+    }
   }
 }
