@@ -55,11 +55,12 @@
     "FullName" : "Imperishable Night",
     "Abbreviation" : "IN",
     "Completion" : {
-      "Normal 1CC" : {
+      "Normal 1CC, ending B" : {
         "Characters" : [
           "Reimu/Yukari",
           "Marisa/Alice", 
-          "Youmu/Yuyuko"
+          "Youmu/Yuyuko",
+          "Remilia/Sakuya"
         ]
       },
       "Extra" : {
