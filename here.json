@@ -67,11 +67,18 @@
           "Reimu/Yukari"
         ]
       },
-      "Last Word Captures" : {
+      "Last Word Captures" : [
         "206" : {
           "FullName" : "Unseasonal Butterfly Storm"
+        },
+        "207" : {
+          "FullName" : "Blind Nightbird"
+        },
+        "208" : {
+          "FullName" : "Emperor of the Land of the Rising Sun"
         }
-      } 
+        
+      ]
     }
   },
   "9" :{
