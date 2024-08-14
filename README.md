@@ -20,10 +20,14 @@ I have now 1CC'd all Windows games on normal difficulty or harder. I have also b
 ## Touhou 8 IN
 ### Normal
   1CC Reimu/Yukari, Marisa/Alice, Youmu/Yuyuko
+  
 ### Extra
   Reimu/Yukari
 ### Last word captures
   206 "Unseasonal Butterfly Storm"
+  207 "Blind Nightbird"
+  208 "Emperor of the Land of the Rising Sun"
+  
 
 ## Touhou 9 POFV
 ### Normal 
