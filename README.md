@@ -27,6 +27,7 @@ I have now 1CC'd all Windows games on normal difficulty or harder. I have also b
   206 "Unseasonal Butterfly Storm"
   207 "Blind Nightbird"
   208 "Emperor of the Land of the Rising Sun"
+  209 "Stare of the Hazy Phantom Moon "Lunatic Red Eyes""
   
 
 ## Touhou 9 POFV
