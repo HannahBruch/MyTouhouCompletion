@@ -80,8 +80,24 @@
         },
         "209" : {
           "Stare of the Hazy Phantom moon 'Lunatic Red Eyes'"
+        },
+        "210" : {
+          "Heaven Spider's Butterfly-Capturing Web"
+        },
+        "211" : {
+          "Hourai's Sea of Trees"
+        },
+        "213" :{
+          "Ancient Duper"
         }
-      ]
+      ],
+      "Other" : {
+        "All normal Spellcards captured" : {
+          "Characters" : [
+            "Marisa"
+          ]
+        }
+      }
     }
   },
   "9" :{
