@@ -19,15 +19,20 @@ I have now 1CC'd all Windows games on normal difficulty or harder. I have also b
 
 ## Touhou 8 IN
 ### Normal
-  1CC Reimu/Yukari, Marisa/Alice, Youmu/Yuyuko
+  1CC All teams
   
 ### Extra
   Reimu/Yukari
-### Last word captures
+### Last word captures (all spells unlocked by me)
   206 "Unseasonal Butterfly Storm"
   207 "Blind Nightbird"
   208 "Emperor of the Land of the Rising Sun"
   209 "Stare of the Hazy Phantom Moon "Lunatic Red Eyes""
+  210 "Heaven Spider's Butterfly-Capturing Web"
+  211 "Hourai's Sea of Trees"
+  213 "Ancient Duper"
+### Other
+  All normal spellcards captured, Marisa 
   
 
 ## Touhou 9 POFV
