@@ -18,8 +18,10 @@ I have now 1CC'd all Windows games on normal difficulty or harder. I have also b
   Sakuya A
 
 ## Touhou 8 IN
-### Normal
+### Normal, ending B
   1CC All teams
+### Hard, ending B
+  1CC Reimu/Yukari
   
 ### Extra
   Reimu/Yukari
