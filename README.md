@@ -24,7 +24,7 @@ I have now 1CC'd all Windows games on normal difficulty or harder. I have also b
   1CC Reimu/Yukari
   
 ### Extra
-  Reimu/Yukari
+  Reimu/Yukari, Marisa/Alice, Sakuya/Remilia
 ### Last word captures (all spells unlocked by me)
   206 "Unseasonal Butterfly Storm"
   207 "Blind Nightbird"
