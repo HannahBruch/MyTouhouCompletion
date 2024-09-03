@@ -19,7 +19,7 @@ I have now 1CC'd all Windows games on normal difficulty or harder. I have also b
 
 ## Touhou 8 IN
 ### Normal, ending B
-  1CC All teams
+  1CC All teams, Reimu, Marisa
 ### Hard, ending B
   1CC Reimu/Yukari
   
